@@ -1,0 +1,33 @@
+/* Write code for your CSS here */
+/* Write code for your CSS here */
+*{
+    margin: 10px;
+    margin-top: 20px;
+}
+.hero{
+text-align: justify;
+margin-top: 40px;
+/* margin-left: 45px; */
+}
+.skills{
+    margin-left: -10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.skills ul{
+    display: flex;
+    list-style: none;
+    padding: 1px;
+}
+.skills ul li{
+    padding: 7px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin-left: 13px;
+    background-color: aqua;
+}
+
+.about{
+    text-align: justify;
+    font-weight: 400;
+}
